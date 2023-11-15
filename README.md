@@ -53,3 +53,18 @@ Accessibility in the context of the web refers to the practice of making website
    - Design for all people, including those with temporary disabilities, situational limitations (like bright sunlight or an environment where audio can't be used), and those with slower internet connections.
 
 Accessibility is not just a technical consideration; it's a matter of civil rights. Making the web accessible benefits individuals, businesses, and society. International standards for web accessibility exist, such as the Web Content Accessibility Guidelines (WCAG), which provide detailed criteria for making web content more accessible.
+
+
+## WHAT IS NOT OPEN STABDARD?
+
+No, `.jsx` and `.ts` (JSX and TypeScript, respectively) are not open standards in the same way that HTML, CSS, and JavaScript are.
+
+1. **JSX (`.jsx`)**: JSX is a syntax extension for JavaScript, primarily used with React, a JavaScript library for building user interfaces. JSX allows you to write HTML-like syntax directly within JavaScript code, which is then transformed into standard JavaScript. While React and JSX are open-source, JSX itself is not an official standard of the web platform defined by a standards body like the World Wide Web Consortium (W3C).
+
+2. **TypeScript (`.ts`)**: TypeScript is a superset of JavaScript developed by Microsoft. It adds static types to JavaScript, among other features, which can enhance code quality and readability. TypeScript is open-source, but like JSX, it is not an official web standard. TypeScript code is transpiled into standard JavaScript, which is understood by browsers.
+
+Both JSX and TypeScript are widely adopted and supported in the development community, but their use requires a build step to convert the code into standard JavaScript, which is the official language of the web and an open standard.
+
+
+
+

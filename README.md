@@ -55,7 +55,7 @@ Accessibility in the context of the web refers to the practice of making website
 Accessibility is not just a technical consideration; it's a matter of civil rights. Making the web accessible benefits individuals, businesses, and society. International standards for web accessibility exist, such as the Web Content Accessibility Guidelines (WCAG), which provide detailed criteria for making web content more accessible.
 
 
-## WHAT IS NOT OPEN STABDARD?
+## WHAT IS NOT OPEN STANDARD?
 
 No, `.jsx` and `.ts` (JSX and TypeScript, respectively) are not open standards in the same way that HTML, CSS, and JavaScript are.
 

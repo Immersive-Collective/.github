@@ -6,7 +6,7 @@ Welcome to Immersive Collective!
 Immersive Collective is dedicated to creating cutting-edge Web XR and 3D Web experiences. We specialize in developing VR applications that run seamlessly in browsers, pushing the boundaries of immersive technology.
 
 🌈 **Contribution Guidelines**  
-We welcome contributions from the community! Whether you're a developer, designer, or enthusiast, you can help us improve and expand our projects. Check out our [contribution guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the community! Whether you're a developer, designer, or enthusiast, you can help us improve and expand our projects. Check out our [contribution guidelines](CONTRIBUTING.MD) to get started.
 
 👩‍💻 **Resources**  
 - **Documentation**: Explore our [docs](https://immersive-collective.org/docs) to learn more about our projects and how to get involved.

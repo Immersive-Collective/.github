@@ -1,7 +1,3 @@
-Here’s an example of contribution guidelines you can add to your **README**:
-
----
-
 ## Contribution Guidelines
 
 We are excited that you're interested in contributing to Immersive Collective! Your involvement is what helps us push the boundaries of immersive technology. Please take a moment to review the following guidelines before you get started.
@@ -68,6 +64,6 @@ If you need help or guidance, feel free to join our [community forum](https://im
 
 By contributing, you agree to uphold our community's [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming and inclusive environment for everyone.
 
----
+
 
 Thank you for your interest in contributing! Together, we can build amazing immersive experiences.

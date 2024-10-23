@@ -9,8 +9,6 @@ Immersive Collective is dedicated to creating cutting-edge Web XR and 3D Web exp
 We welcome contributions from the community! Whether you're a developer, designer, or enthusiast, you can help us improve and expand our projects. Check out our [contribution guidelines](CONTRIBUTING.MD) to get started.
 
 👩‍💻 **Resources**  
-- **Documentation**: Explore our [docs](https://immersive-collective.org/docs) to learn more about our projects and how to get involved.
-- **Support**: Join our [community forum](https://immersive-collective.org/forum) for support and discussions.
 - **GitHub Projects**: Visit our [GitHub page](https://github.com/Immersive-Collective) to see all our repositories and projects.
 
 🍿 **Fun Facts**  
